@@ -1,3 +1,5 @@
+// https://learnopengl.com/code_viewer.php?code=getting-started/hellotriangle
+
 #define GLEW_STATIC
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
